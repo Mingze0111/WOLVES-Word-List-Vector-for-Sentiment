@@ -45,7 +45,7 @@ WOLVES-Word-List-Vector-for-Sentiment-main/
     - stage1_news
   - result       # Saved results directory
   - Word_Sentiment_Analysis.py    # Word sentiment analysis program
-  - MDA_Analysis.py.py      #MD&A sentiment analysis program
+  - MDA_Analysis.py      #MD&A sentiment analysis program
 ```
 
 
@@ -202,10 +202,9 @@ def get_change_trend(target_pd, year_cols, with_year=True):
 
 ## Contact
 ```
-jzhengas@connect.ust.hk  
+
 kc-boris.ng@polyu.edu.hk  
-rzheng@ust.hk  
-kytam@ust.hk  
+
 ```
 
 ## License
